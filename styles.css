@@ -246,6 +246,7 @@ body {
 
 .additional-info__education-university-name {
     color: var(--secondary-text-color);
+    margin-bottom: 10px;
 }
 
 .additional-info__languages {
@@ -260,4 +261,9 @@ body {
 
 .additional-info__languages-item {
     color: var(--secondary-text-color);
+}
+
+.not-rickroll{
+    color: blue;
+    text-decoration: none;
 }
